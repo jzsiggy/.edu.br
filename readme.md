@@ -25,7 +25,7 @@ LOCALIZAÇÃO Brazil
 WEBSITE ANALISADO:  http://www.ucg.br/
 IP:  200.18.170.245
 CERTIFICADO SSL:  False
-SERVIDOR:  (None, None)
+SERVIDOR:  None
 WAF:  True
 LOCALIZAÇÃO Brazil
 

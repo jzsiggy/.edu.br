@@ -29,7 +29,7 @@ def check_cloud(host):
         srv = res.getheader('Server')
 
     except (http.client.HTTPException, OSError):
-        return None, None
+        return None
 
     finally:
         connection.close()
